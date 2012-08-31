@@ -1,0 +1,9 @@
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\bin\x86\Debug\BreakOut.exe
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\bin\x86\Debug\BreakOut.pdb
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\obj\x86\Debug\BreakOut.exe
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\obj\x86\Debug\BreakOut.pdb
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\bin\x86\Debug\Content\paddle.xnb
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\bin\x86\Debug\Content\ball.xnb
+c:\users\kevin\documents\visual studio 2010\Projects\BreakOut\BreakOut\BreakOut\bin\x86\Debug\Content\brick.xnb
